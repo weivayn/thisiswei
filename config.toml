@@ -1,0 +1,67 @@
+baseURL = "http://www.example.com"
+title = "This is Wei"
+copyright = ""
+
+theme = "minimo"
+
+disqusShortname = ""
+googleAnalytics = ""
+Paginate = 5
+
+preserveTaxonomyNames = true
+
+[params]
+  description = "Everything about Wei"
+  dateFormat = "Jan 02, 2006"
+  copyrightOwner = "thisiswei"
+  copyrightStartYear = "2017"
+  favicon = "favicon.ico"
+  hideEntryNavigation = false
+  customCSS = ["css/custom.css"]
+#  customJS = ["js/custom.js"]
+  hideSocialMenu = false
+  showReadTime = true
+
+[params.seo]
+  # Title Separator: - – — · • * ⋆ | ~ « » < >
+  titleSeparator = "•"
+
+[params.opengraph]
+  [params.opengraph.facebook]
+    admins = ""
+    appid = ""
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[social]
+  facebook = ""
+
+[author]
+  name = "Wei"
+
+[author.social]
+  email = "wei@thisiswei.com"
+  github = "weivayn"
+  instagram = "weivayn"
+  twitter = "weivayn"
+  linkedin = "weivayn"
+  yelp = "thisiswei.yelp.com"
+
+[permalinks]
+  page = "/:slug/"
+
+# Language Configuration
+defaultContentLanguage = "en"
+
+[languages]
+  # edit this block for your own language
+  [languages.en]
+    lang = "en"
+    languageName = "English"
+    weight = 1
+
+[blackfriday]
+    plainIDAnchors = true
+    hrefTargetBlank = true

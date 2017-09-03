@@ -1,0 +1,3 @@
+.comments-container #disqus_thread:before, .entry+.list-container:before, .entry-header:after, .entry-nav-links:before, .footer:before, .prev-entry~.next-entry:before, .site-header:after{
+  width: 100%;
+}
