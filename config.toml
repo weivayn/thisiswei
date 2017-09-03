@@ -1,7 +1,7 @@
 baseURL = "http://www.example.com"
 title = "This is Wei"
 copyright = ""
-
+publishDir = "docs"
 theme = "minimo"
 
 disqusShortname = ""
