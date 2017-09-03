@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "https://weivayn.github.io/thisiswei/"
 title = "This is Wei"
 copyright = ""
 publishDir = "docs"

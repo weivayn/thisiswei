@@ -3,111 +3,111 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/</loc>
+    <loc>https://weivayn.github.io/thisiswei/</loc>
     <lastmod>2017-08-21T12:16:35-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/posts/2017-08-21-solar-eclipse/</loc>
+    <loc>https://weivayn.github.io/thisiswei/posts/2017-08-21-solar-eclipse/</loc>
     <lastmod>2017-08-21T12:16:35-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/posts/2017-08-18-hiking/</loc>
+    <loc>https://weivayn.github.io/thisiswei/posts/2017-08-18-hiking/</loc>
     <lastmod>2017-08-19T12:16:35-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/buns/</loc>
-    <lastmod>2017-08-19T12:16:35-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/tags/chinese/</loc>
+    <loc>https://weivayn.github.io/thisiswei/tags/buns/</loc>
     <lastmod>2017-08-19T12:16:35-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/cupcake/</loc>
-    <lastmod>2017-08-21T12:16:35-04:00</lastmod>
+    <loc>https://weivayn.github.io/thisiswei/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/dessert/</loc>
-    <lastmod>2017-08-21T12:16:35-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/tags/eclipse/</loc>
-    <lastmod>2017-08-21T12:16:35-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/tags/hiking/</loc>
+    <loc>https://weivayn.github.io/thisiswei/tags/chinese/</loc>
     <lastmod>2017-08-19T12:16:35-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/lunch/</loc>
+    <loc>https://weivayn.github.io/thisiswei/tags/cupcake/</loc>
     <lastmod>2017-08-21T12:16:35-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/nature/</loc>
+    <loc>https://weivayn.github.io/thisiswei/tags/dessert/</loc>
+    <lastmod>2017-08-21T12:16:35-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weivayn.github.io/thisiswei/tags/eclipse/</loc>
+    <lastmod>2017-08-21T12:16:35-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weivayn.github.io/thisiswei/tags/hiking/</loc>
     <lastmod>2017-08-19T12:16:35-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/pie/</loc>
+    <loc>https://weivayn.github.io/thisiswei/tags/lunch/</loc>
     <lastmod>2017-08-21T12:16:35-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/posts/</loc>
-    <lastmod>2017-08-21T12:16:35-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/tags/pudding/</loc>
-    <lastmod>2017-08-21T12:16:35-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/tags/pumpkin/</loc>
-    <lastmod>2017-08-21T12:16:35-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/tags/salad/</loc>
-    <lastmod>2017-08-21T12:16:35-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/tags/soup-dumplings/</loc>
+    <loc>https://weivayn.github.io/thisiswei/tags/nature/</loc>
     <lastmod>2017-08-19T12:16:35-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>https://weivayn.github.io/thisiswei/tags/pie/</loc>
+    <lastmod>2017-08-21T12:16:35-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weivayn.github.io/thisiswei/posts/</loc>
+    <lastmod>2017-08-21T12:16:35-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weivayn.github.io/thisiswei/tags/pudding/</loc>
+    <lastmod>2017-08-21T12:16:35-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weivayn.github.io/thisiswei/tags/pumpkin/</loc>
+    <lastmod>2017-08-21T12:16:35-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weivayn.github.io/thisiswei/tags/salad/</loc>
+    <lastmod>2017-08-21T12:16:35-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weivayn.github.io/thisiswei/tags/soup-dumplings/</loc>
+    <lastmod>2017-08-19T12:16:35-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weivayn.github.io/thisiswei/tags/</loc>
     <lastmod>2017-08-19T12:16:35-04:00</lastmod>
     <priority>0</priority>
   </url>
