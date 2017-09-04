@@ -1,4 +1,5 @@
 baseURL = "https://weivayn.github.io/thisiswei/"
+URL = "thisiswei"
 title = "This is Wei"
 copyright = ""
 publishDir = "docs"
