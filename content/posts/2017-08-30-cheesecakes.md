@@ -50,14 +50,17 @@ No. 6
 
 
 **[Ootoya](https://www.yelp.com/biz/ootoya-chelsea-new-york?hrid=LWYNCovy40sREOxKsQij8w)** has been one of my favorite lunch spot near Flatiron. Everything was very authentic. I can always get full and satisfied from here. The Japanese yogurt cheesecake tasted very light and smooth, which was definitely a summery cheesecake.
+
 > [![Japanese yogurt cheesecake](https://s3-media1.fl.yelpcdn.com/bphoto/0FGT_c51FzomvEY3NbObeg/o.jpg "Japanese yogurt cheesecake")](https://www.yelp.com/biz_photos/ootoya-chelsea-new-york?select=0FGT_c51FzomvEY3NbObeg&userid=Qevuomc7vf9OHlN_dPB_rA)
 
 
 **[Ben & Jack's Steakhouse](http://www.yelp.com/biz/ben-and-jacks-steakhouse-new-york-2?hrid=g4arKrG3FBQEKGfQ5wvdoQ)** is known for the history with Peter Luger.
+
 > [![Cheesecake](https://s3-media1.fl.yelpcdn.com/bphoto/abvej0U_EodanrqUush3Lg/o.jpg "Cheesecake")](https://www.yelp.com/biz_photos/ben-and-jacks-steakhouse-new-york-2?select=abvej0U_EodanrqUush3Lg)
 
 
 **[Tops Diner](http://www.yelp.com/biz/tops-diner-east-newark?hrid=_-OXJBHc-wKhKqhaQUY13w)** is supposed to be the best diner in the area. I really wanted to like it. The food that we ordered tasted good except the original cheesecake, which I had to go. I ate it right when I got home. I had only one bit then I had to throw the entire slice away. It had a very nasty fridge taste, which wasn't fresh at all. I supposed that this was the worst cheesecake that I ever had.
+
 > [![Original cheesecake](https://s3-media3.fl.yelpcdn.com/bphoto/ZUPdqQ8yPvyhZhqFyIC1JQ/o.jpg "Original cheesecake")](https://www.yelp.com/biz_photos/tops-diner-east-newark?select=ZUPdqQ8yPvyhZhqFyIC1JQ&userid=Qevuomc7vf9OHlN_dPB_rA)
 
 The Cheesecake Factory at Jersey City NJ
