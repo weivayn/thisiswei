@@ -32,7 +32,7 @@ No. 4
 
 No. 5
 ------------------
-**[Little Pie Company(https://www.yelp.com/biz/little-pie-company-new-york?hrid=91nxydr_BvAFLeLUr8jPFw)** is my favorite pie place in the city. It offers mini sweet and savory pies. Yes, the cheesecake is considered a pie. Strawberry cheesecake is creamy and pretty good, which reminds me of the vanilla ice cream. I would prefer the cheesecake had a little more sourness in it.
+**[Little Pie Company](https://www.yelp.com/biz/little-pie-company-new-york?hrid=91nxydr_BvAFLeLUr8jPFw)** is my favorite pie place in the city. It offers mini sweet and savory pies. Yes, the cheesecake is considered a pie. Strawberry cheesecake is creamy and pretty good, which reminds me of the vanilla ice cream. I would prefer the cheesecake had a little more sourness in it.
 
 >[![Strawberry cheesecake](https://s3-media1.fl.yelpcdn.com/bphoto/5F4G2bNXXnKB-d0rbMYNvg/o.jpg "Strawberry cheesecake")](https://www.yelp.com/biz_photos/little-pie-company-new-york?select=5F4G2bNXXnKB-d0rbMYNvg)
 
