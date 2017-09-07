@@ -66,7 +66,7 @@ No. 10
 
 > [![Caramel macadamia nut cheesecake](https://s3-media3.fl.yelpcdn.com/bphoto/VOUkXUlzVTrR43g_jpFPCQ/o.jpg "Caramel macadamia nut cheesecake")](https://www.yelp.com/biz_photos/the-cheesecake-factory-jersey-city?select=VOUkXUlzVTrR43g_jpFPCQ)
 
-Wish to try list (includes other styles)
+Wish to try list (including other styles)
 ------------------
 1. Lady M
 1. Petee's Pie Company
