@@ -24,3 +24,10 @@ Here are some diners which I have visited often in the Northern Jersey.
 **[Brownstone Diner & Pancake Factory](https://www.yelp.com/biz/brownstone-diner-and-pancake-factory-jersey-city?hrid=RcR88cM_m-QZTiOi5yScUw)** was featured on the Food Network show - [Diners, Drive-ins and Dives](http://www.foodnetwork.com/restaurants/nj/jersey-city/brownstone-diner-restaurant). And that was how I found out about this place. We used to drive miles away to come here for having breakfast and pancakes. It's very sad that I have keep lowering my Yelp ratings from 3 to 2. To summarize, the service is HORRIBLE, especially during the prim time. The food quality is also going downhill. For example, the famous pancakes used to be very fluffy and tasty. Now, the pancakes are still fluffy with a lot of baking soda. I was able to taste it. On the other hand, the cheesecake tastes very good for a diner.
 
 > [![Short stack pancakes](https://s3-media1.fl.yelpcdn.com/bphoto/oC_MptuAj_CFWuXEHRNSDg/o.jpg "Short stack pancakes")](https://www.yelp.com/biz_photos/brownstone-diner-and-pancake-factory-jersey-city?select=oC_MptuAj_CFWuXEHRNSDg) [![New York style cheesecake with strawberries](https://s3-media4.fl.yelpcdn.com/bphoto/q-1ClN1weu8aKClknZly4g/o.jpg "New York style cheesecake with strawberries")](https://www.yelp.com/biz_photos/brownstone-diner-and-pancake-factory-jersey-city?select=q-1ClN1weu8aKClknZly4g)
+
+Wish to try list
+------------------
+1. [Maywood Pancake House](https://www.yelp.com/biz/maywood-pancake-house-maywood)
+1. [Deluxe Diner](https://www.yelp.com/biz/deluxe-diner-newark)
+1. [Park Wood Diner](https://www.yelp.com/biz/park-wood-diner-maplewood)
+1. [Cafe Talya](https://www.yelp.com/biz/cafe-talya-bayonne)
