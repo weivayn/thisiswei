@@ -5,7 +5,7 @@ copyright = ""
 publishDir = "docs"
 theme = "minimo"
 
-disqusShortname = ""
+disqusShortname = "thisiswei"
 googleAnalytics = ""
 Paginate = 5
 
