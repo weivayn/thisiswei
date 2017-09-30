@@ -4,7 +4,12 @@
   
   <url>
     <loc>https://weivayn.github.io/thisiswei/</loc>
-    <lastmod>2017-09-16T12:16:35-04:00</lastmod>
+    <lastmod>2017-09-30T12:16:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weivayn.github.io/thisiswei/posts/2017-09-30-soup-dumplings/</loc>
+    <lastmod>2017-09-30T12:16:35-04:00</lastmod>
   </url>
   
   <url>
@@ -101,6 +106,12 @@
   </url>
   
   <url>
+    <loc>https://weivayn.github.io/thisiswei/tags/chinese/</loc>
+    <lastmod>2017-09-30T12:16:35-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://weivayn.github.io/thisiswei/tags/coffee/</loc>
     <lastmod>2017-08-30T12:16:35-04:00</lastmod>
     <priority>0</priority>
@@ -121,6 +132,12 @@
   <url>
     <loc>https://weivayn.github.io/thisiswei/tags/diner/</loc>
     <lastmod>2017-09-16T12:16:35-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weivayn.github.io/thisiswei/tags/dumplings/</loc>
+    <lastmod>2017-09-30T12:16:35-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -186,7 +203,7 @@
   
   <url>
     <loc>https://weivayn.github.io/thisiswei/posts/</loc>
-    <lastmod>2017-09-16T12:16:35-04:00</lastmod>
+    <lastmod>2017-09-30T12:16:35-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -235,6 +252,18 @@
   <url>
     <loc>https://weivayn.github.io/thisiswei/tags/vegetarian/</loc>
     <lastmod>2017-08-30T12:16:35-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weivayn.github.io/thisiswei/tags/xiaolongbao/</loc>
+    <lastmod>2017-09-30T12:16:35-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weivayn.github.io/thisiswei/tags/%E5%B0%8F%E7%B1%A0%E5%8C%85/</loc>
+    <lastmod>2017-09-30T12:16:35-04:00</lastmod>
     <priority>0</priority>
   </url>
   
