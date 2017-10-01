@@ -21,7 +21,7 @@ There are so many good soup dumpling (Xiaolongbao/小籠包) places in the world
 
 > [![Crab meat soup dumplings](https://s3-media2.fl.yelpcdn.com/bphoto/bPSWVtZ-2sEqM-a0szuJ2A/o.jpg "Crab meat soup dumplings")](https://www.yelp.com/biz_photos/456-shanghai-cuisine-new-york?select=bPSWVtZ-2sEqM-a0szuJ2A)
 
-**[Soup Dumpling plus] (https://www.yelp.com/biz/soup-dumpling-plus-fort-lee?hrid=QKFsYwGiuULjPgmGYkexjA)** located in Fort Lee. A friend of ours had mentioned quite a few times about having brunch here. I had much better steamed pork soup dumplings in Chinatown. These had thicker skins, less meat and lack of flavor.
+**[Soup Dumpling Plus](https://goo.gl/v4wv1T)** located in Fort Lee. A friend of ours had mentioned quite a few times about having brunch here. I had much better steamed pork soup dumplings in Chinatown. These had thicker skins, less meat and lack of flavor.
 
 >[![Steamed Pork Soup Dumplings](https://goo.gl/Rjz1NC "Steamed Pork Soup Dumplings")](https://goo.gl/htG1t7)
 
