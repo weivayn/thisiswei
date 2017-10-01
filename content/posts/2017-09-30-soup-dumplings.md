@@ -5,7 +5,7 @@ draft: false
 tags: ["Chinese","dumplings","小籠包","Xiaolongbao"]
 ---
 
-There are so many good soup dumpling (Xiaolongbao/小籠包) places in the world. The most well known one must be [Din Tai Fung (鼎泰豐)](https://en.wikipedia.org/wiki/Din_Tai_Fung). Since Din Tai Fung has not yet entered the New York market, I have tried many other great soup dumplings in the area. And yes, I did have Din Tai Fung.
+There are so many good soup dumpling (Xiaolongbao/小籠包) places in the world. The most well known one must be [Din Tai Fung/鼎泰豐](https://en.wikipedia.org/wiki/Din_Tai_Fung). Since Din Tai Fung has not yet entered the New York market, I have tried many other great soup dumplings in the area. And yes, I did have Din Tai Fung.
 
 **[Shanghai Asian Manor](https://www.yelp.com/biz/shanghai-asian-manor-new-york?hrid=clQEfSJc_rGZBGP-EzBtYw)** is my favorite place to get soup dumplings. They were much better than Din Tai Fung. Steamed tiny buns with pork were better than the steamed tiny buns with crab meat and pork. They were juicy and tasty with very thin skins. Black truffle pork dumplings weren't worth the money, which were on the dryer side. I introduced this place to a friend. She loved it so much and ordered from here weekly for dinner.
 
@@ -21,7 +21,7 @@ There are so many good soup dumpling (Xiaolongbao/小籠包) places in the world
 
 > [![Crab meat soup dumplings](https://s3-media2.fl.yelpcdn.com/bphoto/bPSWVtZ-2sEqM-a0szuJ2A/o.jpg "Crab meat soup dumplings")](https://www.yelp.com/biz_photos/456-shanghai-cuisine-new-york?select=bPSWVtZ-2sEqM-a0szuJ2A)
 
-**[Soup Dumpling plus]** (https://www.yelp.com/biz/soup-dumpling-plus-fort-lee?hrid=QKFsYwGiuULjPgmGYkexjA) located in Fort Lee. A friend of ours had mentioned quite a few times about having brunch here. I had much better steamed pork soup dumplings in Chinatown. These had thicker skins, less meat and lack of flavor.
+**[Soup Dumpling plus] (https://www.yelp.com/biz/soup-dumpling-plus-fort-lee?hrid=QKFsYwGiuULjPgmGYkexjA)** located in Fort Lee. A friend of ours had mentioned quite a few times about having brunch here. I had much better steamed pork soup dumplings in Chinatown. These had thicker skins, less meat and lack of flavor.
 
 >[![Steamed Pork Soup Dumplings](https://goo.gl/Rjz1NC "Steamed Pork Soup Dumplings")](https://goo.gl/htG1t7)
 
@@ -29,6 +29,6 @@ There are so many good soup dumpling (Xiaolongbao/小籠包) places in the world
 
 > [![灌湯小籠包 Steamed Pork Soup Dumpling](https://s3-media1.fl.yelpcdn.com/bphoto/djZd2nYD7J1fs0IXNvckeA/o.jpg "灌湯小籠包 Steamed Pork Soup Dumpling")](https://www.yelp.com/biz_photos/taste-of-north-china-jersey-city?select=djZd2nYD7J1fs0IXNvckeA)
 
-**[Shanghai Best]()** is another Chinese restaurant in Jersey City, which I normally ordered delivery from this place. Just like the other Jersey soup dumplings, their pork soup dumplings had thick skin.
+**[Shanghai Best](https://www.yelp.com/biz/shanghai-best-jersey-city?hrid=_d6YrHFLwmjnAXzFT5EF6A)** is another Chinese restaurant in Jersey City, which I normally ordered delivery from this place. Just like the other Jersey soup dumplings, their pork soup dumplings had thick skin.
 
 > [![Pork soup dumplings](https://s3-media3.fl.yelpcdn.com/bphoto/53r_wQpLED9BWGgSl6r7Xg/o.jpg "Pork soup dumplings")](https://www.yelp.com/biz_photos/shanghai-best-jersey-city?select=53r_wQpLED9BWGgSl6r7Xg)
