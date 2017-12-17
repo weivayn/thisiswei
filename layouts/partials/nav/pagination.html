@@ -1,9 +1,8 @@
 {{ if gt .Paginator.TotalPages 1 }}
 <nav class='pagination'>
   <div class='page-links'>
-
     {{ with .Paginator.Prev }}
-    <a class='page-link' href='{{ .URL }}'>
+    <a class='page-link' href='{{.URL}}'>
       {{- partial "svg/icons" "prev" -}}
       <span class='screen-reader'>{{ i18n "previousPage" }}</span>
     </a>
@@ -19,7 +18,7 @@
         {{- .PageNumber -}}
       </span>
       {{ else if or ( or ( eq . $.Paginator.First ) ( eq . $.Paginator.Prev ) ) ( or ( eq . $.Paginator.Next ) ( eq . $.Paginator.Last ) ) }}
-      <a class='page-link' href='{{ .URL }}'>
+      <a class='page-link' href='{{.URL}}'>
         <span class='screen-reader'>{{ i18n "page" }}: </span>
         {{- .PageNumber -}}
       </a>
@@ -35,7 +34,7 @@
     {{ end }}
 
     {{ with .Paginator.Next }}
-    <a class='page-link' href='{{ .URL }}'>
+    <a class='page-link' href='{{.URL}}'>
       <span class='screen-reader'>{{ i18n "nextPage" }}</span>
       {{- partial "svg/icons" "next" -}}
     </a>

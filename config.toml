@@ -1,5 +1,5 @@
 baseURL = "https://weivayn.github.io/thisiswei/"
-URL = "thisiswei/posts"
+URL = "thisiswei"
 title = "This is Wei"
 copyright = "© 2017 thisiswei"
 publishDir = "docs"
@@ -8,6 +8,7 @@ theme = "minimo"
 disqusShortname = "thisiswei"
 googleAnalytics = ""
 Paginate = 5
+PaginatePath = "posts/page"
 
 preserveTaxonomyNames = true
 
