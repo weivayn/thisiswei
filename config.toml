@@ -8,7 +8,7 @@ theme = "minimo"
 disqusShortname = "thisiswei"
 googleAnalytics = ""
 Paginate = 5
-PaginatePath = "posts/page"
+PaginatePath = "page"
 
 preserveTaxonomyNames = true
 
