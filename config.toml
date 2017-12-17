@@ -1,7 +1,7 @@
 baseURL = "https://weivayn.github.io/thisiswei/"
 URL = "thisiswei"
 title = "This is Wei"
-copyright = ""
+copyright = "© 2017 thisiswei"
 publishDir = "docs"
 theme = "minimo"
 
@@ -12,25 +12,28 @@ Paginate = 5
 preserveTaxonomyNames = true
 
 [params]
-  description = "Everything about Wei"
-  dateFormat = "Jan 02, 2006"
-  copyrightOwner = "thisiswei"
-  copyrightStartYear = "2017"
-  favicon = "favicon.ico"
-  hideEntryNavigation = false
-  customCSS = ["css/custom.css"]
+dateFormat = "Jan 02, 2006"
+copyrightOwner = "thisiswei"
+copyrightStartYear = "2017"
+favicon = "favicon.ico"
+hideEntryNavigation = false
 #  customJS = ["js/custom.js"]
-  hideSocialMenu = false
-  showReadTime = true
+hideSocialMenu = false
+showReadTime = true
 
+[params.info]
+  description = "Everything about Wei"
+[params.settings]
+  recentPostsLength = 5
 [params.seo]
   # Title Separator: - – — · • * ⋆ | ~ « » < >
   titleSeparator = "•"
-
 [params.opengraph]
   [params.opengraph.facebook]
-    admins = ""
+    admins = []
     appid = ""
+[params.assets]
+  customCss = ["css/custom.css"]
 
 [taxonomies]
   category = "categories"
@@ -42,13 +45,16 @@ preserveTaxonomyNames = true
 [author]
   name = "Wei"
 
-[author.social]
+[params.social]
   email = "wei@thisiswei.com"
   github = "weivayn"
   instagram = "weivayn"
   twitter = "weivayn"
   linkedin = "weivayn"
   yelp = "thisiswei.yelp.com"
+
+[params.social.config]
+  platforms = ["github","twitter","instagram","email","linkedin","yelp"]
 
 [permalinks]
   page = "/:slug/"
