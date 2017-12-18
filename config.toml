@@ -74,7 +74,6 @@ defaultContentLanguage = "en"
     hrefTargetBlank = true
 
 [[menu.main]]
-        name = "Posts"
-        weight = -0
-        identifier = "blog"
-        url = "/posts/"
+  name = "Posts"
+  weight = -0
+  url = "/posts/"

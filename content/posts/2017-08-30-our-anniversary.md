@@ -2,7 +2,7 @@
 title: "Our Anniversary"
 date: 2017-08-30T12:16:35-04:00
 draft: false
-tags: ["anniversary","bike","dessert","vegetarian","German","cheesecake","bbq","coffee","museum"]
+tags: ["anniversary","bike","dessert","vegetarian","German","cheesecake","bbq","coffee","museum","special day"]
 ---
 My husband and I like to do things out of ordinary on our anniversaries. Last year, we went to the New Fulton Fish Market, which we had to stay up late for. This year, we decided to do a self-guided bike tour around Manhattan.
 
