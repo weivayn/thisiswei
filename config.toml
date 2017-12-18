@@ -8,7 +8,6 @@ theme = "minimo"
 disqusShortname = "thisiswei"
 googleAnalytics = ""
 Paginate = 5
-PaginatePath = "pages"
 
 preserveTaxonomyNames = true
 
