@@ -2,7 +2,7 @@
 title: "Celebration"
 date: 2017-11-12T12:16:35-04:00
 draft: false
-tags: ["special day","sushi","tea service","desserts"]
+tags: ["special day","sushi","tea service","dessert","lunch"]
 ---
 
 Today was a special day! We decided to celebrate it by visiting a bunch of places in NYC.
