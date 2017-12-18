@@ -3,6 +3,7 @@ URL = "thisiswei"
 title = "This is Wei"
 copyright = "© 2017 thisiswei"
 publishDir = "docs"
+#theme = "beautifulhugo"
 theme = "minimo"
 
 disqusShortname = "thisiswei"
@@ -11,7 +12,14 @@ Paginate = 5
 
 preserveTaxonomyNames = true
 
+
+#new theme
+#pygmentsCodeFences = true
+#pygmentsUseClasses = true
+
+
 [params]
+#useChroma = true
 dateFormat = "Jan 02, 2006"
 copyrightOwner = "thisiswei"
 copyrightStartYear = "2017"
