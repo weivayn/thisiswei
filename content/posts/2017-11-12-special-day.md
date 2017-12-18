@@ -5,7 +5,7 @@ draft: false
 tags: ["special day","sushi","tea service","dessert","lunch"]
 ---
 
-Today was a special day! We decided to celebrate it by visiting a bunch of places in NYC.
+Today was a special day! We decided to celebrate it by visiting a bunch of places in NYC. Even though we did not end up going to [Two Little Red Hens](http://www.yelp.com/biz/two-little-red-hens-new-york-4?hrid=vYyFc9rWneRGCZCsmM73cA), I enjoyed it very much!
 
 **[SUGARFISH](https://www.yelp.com/biz/sugarfish-by-sushi-nozawa-new-york?hrid=mbQTLQD8fwZlpO8yvIxm1g)** has been a popular sushi spot in the west coast. I was very glad that SUGARFISH opened its NYC location. We came here for celebrating a special day. I ordered the trust me lite, which included organic edamame, tuna sashimi, albacore sushi (1-pc), salmon sushi (1-pc), Nozawa-style shrimp sushi (1-pc) and toro Hand Roll. The amount was just right. I wanted to save the space for dessert. My husband ordered the Nozawa trust me, which came with organic edamame, tuna sashimi, albacore sushi (2-pc), salmon sushi (2-pc), yellowtail sushi (2-pc), snapper* sushi (1-pc), sea bass sushi (1-pc), toro hand roll, blue crab hand roll and sweet shrimp sushi (2-pc). He also ordered a side of toro. Everything was super fresh and tasty. No wonder the wait was long at all its locations.
 
