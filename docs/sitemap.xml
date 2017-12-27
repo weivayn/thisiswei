@@ -4,7 +4,12 @@
   
   <url>
     <loc>https://weivayn.github.io/thisiswei/</loc>
-    <lastmod>2017-11-30T12:16:35-04:00</lastmod>
+    <lastmod>2017-12-03T12:16:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weivayn.github.io/thisiswei/posts/2017-12-03-nashville/</loc>
+    <lastmod>2017-12-03T12:16:35-04:00</lastmod>
   </url>
   
   <url>
@@ -86,13 +91,19 @@
   
   <url>
     <loc>https://weivayn.github.io/thisiswei/tags/bbq/</loc>
-    <lastmod>2017-08-30T12:16:35-04:00</lastmod>
+    <lastmod>2017-12-03T12:16:35-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weivayn.github.io/thisiswei/tags/bike/</loc>
     <lastmod>2017-08-30T12:16:35-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weivayn.github.io/thisiswei/tags/biscuit/</loc>
+    <lastmod>2017-12-03T12:16:35-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -126,6 +137,12 @@
   </url>
   
   <url>
+    <loc>https://weivayn.github.io/thisiswei/tags/chicken/</loc>
+    <lastmod>2017-12-03T12:16:35-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://weivayn.github.io/thisiswei/tags/chinese/</loc>
     <lastmod>2017-11-30T12:16:35-04:00</lastmod>
     <priority>0</priority>
@@ -151,7 +168,7 @@
   
   <url>
     <loc>https://weivayn.github.io/thisiswei/tags/dessert/</loc>
-    <lastmod>2017-11-30T12:16:35-04:00</lastmod>
+    <lastmod>2017-12-03T12:16:35-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -205,7 +222,19 @@
   
   <url>
     <loc>https://weivayn.github.io/thisiswei/tags/museum/</loc>
-    <lastmod>2017-08-30T12:16:35-04:00</lastmod>
+    <lastmod>2017-12-03T12:16:35-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weivayn.github.io/thisiswei/tags/music/</loc>
+    <lastmod>2017-12-03T12:16:35-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weivayn.github.io/thisiswei/tags/nashville/</loc>
+    <lastmod>2017-12-03T12:16:35-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -229,13 +258,13 @@
   
   <url>
     <loc>https://weivayn.github.io/thisiswei/tags/pie/</loc>
-    <lastmod>2017-08-21T12:16:35-04:00</lastmod>
+    <lastmod>2017-12-03T12:16:35-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://weivayn.github.io/thisiswei/posts/</loc>
-    <lastmod>2017-11-30T12:16:35-04:00</lastmod>
+    <lastmod>2017-12-03T12:16:35-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -266,6 +295,12 @@
   <url>
     <loc>https://weivayn.github.io/thisiswei/tags/soup-dumplings/</loc>
     <lastmod>2017-08-19T12:16:35-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weivayn.github.io/thisiswei/tags/southern/</loc>
+    <lastmod>2017-12-03T12:16:35-04:00</lastmod>
     <priority>0</priority>
   </url>
   
