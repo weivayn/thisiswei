@@ -46,3 +46,7 @@ It seemed a good idea to visit Nashville in the early December, since we both we
 **[Daily Juice Cafe of Nashville](http://www.yelp.com/biz/daily-juice-cafe-of-nashville-nashville?hrid=QlDn84zcyI0V1HxlUN12Yg)** was a great place to visit after having BBQ and hot chicken! Staff was very friendly. I loved there were seats in front of the well-decorated window. I felt that I was some where else.
 
 > [![G6 juice](https://s3-media3.fl.yelpcdn.com/bphoto/4xc-Bv2eQYCjj4E_O0ONNQ/o.jpg "G6 juice")](https://www.yelp.com/biz_photos/daily-juice-cafe-of-nashville-nashville?select=4xc-Bv2eQYCjj4E_O0ONNQ)
+
+**[Martin's Bar-B-Que Joint](http://www.yelp.com/biz/martins-bar-b-que-joint-nashville-2?hrid=DACdjtSmKwI5_WyKMn9z_g)**  was another highly recommended BBQ joint in Nashville. They had the best brisket! It was tender, juicy and melt in the mouth! The ribs weren't as good as at Peg Leg Porker but still outstanding. The place wasn't as crowded on a Sunday afternoon.
+
+> [![Ribs & brisket](https://s3-media1.fl.yelpcdn.com/bphoto/WBFcnqs9cIkPtO4653tmbQ/o.jpg "Ribs & brisket")](https://www.yelp.com/biz_photos/martins-bar-b-que-joint-nashville-2?select=WBFcnqs9cIkPtO4653tmbQ)[![Soda](https://s3-media3.fl.yelpcdn.com/bphoto/HcFCs1OMd4zUTYotMzVcYg/o.jpg "Soda")](https://www.yelp.com/biz_photos/martins-bar-b-que-joint-nashville-2?select=HcFCs1OMd4zUTYotMzVcYg)
