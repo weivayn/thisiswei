@@ -2,7 +2,7 @@
 title: "Celebration"
 date: 2017-12-16T12:16:35-04:00
 draft: false
-tags: ["special day","dessert","cupcake","cheesecake","pie","Swiss","steak","bacon","pie"]
+tags: ["special day","dessert","cupcake","cheesecake","pie","Swiss","steak","bacon","ice cream","cake"]
 ---
 
 Today was another special day! We have started the week-long celebration a few days before the actual day, so we were able to visit more places!
