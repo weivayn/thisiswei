@@ -5,7 +5,7 @@ draft: false
 tags: ["special day","dessert","cupcake","cheesecake","pie","Swiss","steak","bacon","pie"]
 ---
 
-Today was another special day! We started the celebration a few days before so we were able to explore more place!
+Today was another special day! We have started the week-long celebration a few days before the actual day, so we were able to visit more places!
 
 **[Mont Blanc 52](http://www.yelp.com/biz/mont-blanc-52-new-york-2?hrid=Ma13QeAY25yVBFuO2yoXUQ)**  was recommended by my husband's best friend. WARNING: melting cheese smells funky. We started with some house salad with light dressing. We shared lightly fried calamari and escargots. The garlic butter where escargots swam in was remarkable! I dipped bread in it after finishing escargots. We also shared the Swiss cheese fondue, which reminded me of the fondue that I had in Zurich. I was feeling buzzed after eating it. :) Emince de Veau à la Zurichoise, which was the traditional swiss minced veal, cream, mushroom & onions. It tasted very good as well. The service was pretty good here, except the place was super tight to move around.
 
