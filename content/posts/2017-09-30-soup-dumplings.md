@@ -2,7 +2,7 @@
 title: "Soup Dumplings"
 date: 2017-09-30T12:16:35-04:00
 draft: false
-tags: ["Chinese","dumplings","小籠包","Xiaolongbao"]
+tags: ["Chinese","dumpling","小籠包","Xiaolongbao"]
 ---
 
 There are so many good soup dumpling (Xiaolongbao/小籠包) places in the world. The most well known one must be [Din Tai Fung/鼎泰豐](https://en.wikipedia.org/wiki/Din_Tai_Fung). Since Din Tai Fung has not yet entered the New York market, I have tried many other great soup dumplings in the area. And yes, I did have Din Tai Fung.
