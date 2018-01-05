@@ -16,5 +16,5 @@ blockquote {
 }
 
 blockquote > p > a {
-  border-bottom: 0px;
+  border-bottom: 0px!important;
 }
