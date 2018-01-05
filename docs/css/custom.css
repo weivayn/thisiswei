@@ -15,6 +15,6 @@ blockquote {
   border-left: 0px;
 }
 
-a < img {
+.entry-content a < img {
   border-bottom: 0px;
 }
