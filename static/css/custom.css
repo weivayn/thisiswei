@@ -9,3 +9,12 @@ a.page-link:hover {
 .header:after, .footer:before{
   width: 100%!important;
 }
+
+blockquote {
+  padding-left: 0px;
+  border-left: 0px;
+}
+
+a < img {
+  border-bottom: 0px;
+}
