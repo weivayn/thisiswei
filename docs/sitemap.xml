@@ -4,7 +4,12 @@
   
   <url>
     <loc>https://weivayn.github.io/thisiswei/</loc>
-    <lastmod>2018-01-04T12:16:35-04:00</lastmod>
+    <lastmod>2018-02-13T12:16:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://weivayn.github.io/thisiswei/posts/2018-02-13-steaks/</loc>
+    <lastmod>2018-02-13T12:16:35-04:00</lastmod>
   </url>
   
   <url>
@@ -352,7 +357,7 @@
   
   <url>
     <loc>https://weivayn.github.io/thisiswei/posts/</loc>
-    <lastmod>2018-01-04T12:16:35-04:00</lastmod>
+    <lastmod>2018-02-13T12:16:35-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -406,7 +411,13 @@
   
   <url>
     <loc>https://weivayn.github.io/thisiswei/tags/steak/</loc>
-    <lastmod>2017-12-16T12:16:35-04:00</lastmod>
+    <lastmod>2018-02-13T12:16:35-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weivayn.github.io/thisiswei/tags/steakhouse/</loc>
+    <lastmod>2018-02-13T12:16:35-04:00</lastmod>
     <priority>0</priority>
   </url>
   
